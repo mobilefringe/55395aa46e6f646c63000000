@@ -224,7 +224,7 @@
 <header>
     <a class="accessible" href="#page_content">[Skip to Content]</a>
      <div class="container">
-          <div class="navbar navbar-default" role="navigation">
+          <nav class="navbar navbar-default" role="navigation">
                <div class="navbar-header"><a class="navbar-brand" href="/home" id="site_logo">
                <script id="logo_template" type="x-tmpl-mustache/text">{% raw %}<img src="{{site_logo}}" alt="Chemong Park Plaza">{% endraw %}</script>
                </a><a href="#" class="btn btn-navbar btn-default navbar-toggle" onclick="javascript:toggle_menu()"><span class="nb_left pull-left"><span class="fa fa-reorder"></span></span><p style="display:none">menu</p> </a></div>
@@ -277,7 +277,7 @@
                          </li>
                     </ul>
                </div>
-          </div>
+          </nav>
           <!--<div id="social_media_wrapper"> <a href="https://www.facebook.com/10DundasEast" target="_blank"><i class="fa fa-facebook"></i><p style="display:none">facebook</p></a> <a href="https://twitter.com/10DundasEast" target="_blank"><i class="fa fa-twitter"></i><p style="display:none">twitter</p></a><a href="//instagram.com/10dundaseast" target="_blank"><i class="fa fa-instagram"></i><p style="display:none">instagram</p></a><a href="https://www.youtube.com/user/10DundasEast" target="_blank"><i class="fa fa-youtube"></i><p style="display:none">youtube</p></a></div>-->
           <a href="//bentallkennedy.com/" target="_blank">
               <div class="bk_logo_svg"><p style="display:none">Bentall Kennedy</p></div>
