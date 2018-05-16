@@ -19,10 +19,10 @@
         <li><a href="/contact_us">Contact Us</a> </li>
         <li class="active">Jobs</li>
     </ul>
+    </nav>
     <div class="page_banner">
         Jobs
     </div>
-    </nav>
     <div class="inside_page_content">
         <div class="left_column">
             <img class="inside_banner_image" alt="banner" src="//kodekloud.s3.amazonaws.com/sites/54edfd7a6e6f640717000000/2804b99a4a7c2ed210ec0bfcd23dfaee/Banner-Image-008_edited.jpg"/>
