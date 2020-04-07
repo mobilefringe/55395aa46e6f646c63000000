@@ -200,7 +200,7 @@
         function getSVGMapURL(){
             initData();
             var mallDataJSON = JSON.parse(sessionStorage.mallData);
-            return '//mallmaverick.cdn.speedyrails.net' + mallDataJSON.property.svgmap_url;
+            return '//assets.mallmaverick.com' + mallDataJSON.property.svgmap_url;
         }
 
         loadMallData(renderAll);  
